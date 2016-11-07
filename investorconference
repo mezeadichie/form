@@ -1,5 +1,5 @@
 <style>
- table, tr, td{border:0px;}
+ table, tr, td{border:0px !important;}
 </style>
 
 <table frameborder="0" style="border:0px;">
