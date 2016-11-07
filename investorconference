@@ -1,0 +1,28 @@
+<style>
+ table, tr, td{border:0px;}
+</style>
+
+<table frameborder="0" style="border:0px;">
+    <tbody frameborder="0">
+        <tr>
+            <td><iframe width="450" height="315" src="https://www.youtube.com/embed/JcTsL79NgXE" frameborder="0"></iframe>
+            </td>
+            <td><iframe width="450" height="315" src="https://www.youtube.com/embed/7DapPfY19js" frameborder="0"></iframe></td>
+        </tr>
+        <tr>
+            <td>&nbsp;<strong>Obi Ejimofo, Chief Operating Officer, Asoko Insight,</strong><br />
+            Navigating the growth cycle through under-invested sectors in the non-oil economy</td>
+            <td><strong>&nbsp;Gregory Kronsten, Head, Macroeconomic &amp; Fixed Income Research, FBNQuest</strong><br />
+            Nigerian economy and markets overview</td>
+        </tr>
+        <tr>
+            <td><iframe width="450" height="315" src="https://www.youtube.com/embed/yMSL3ScFz4U" frameborder="0"></iframe></td>
+            <td><iframe width="450" height="315" src="https://www.youtube.com/embed/PBKBqIRGkFk" frameborder="0"></iframe></td>
+        </tr>
+        <tr>
+            <td>&nbsp;<strong>Kemi Adeosun, Nigerian Minister for Finance</strong></td>
+            <td>&nbsp;<strong>Nigerian Minister of trade and investment, Dr. Okechukwu Enelamah</strong><br />
+            Open for business: Matching opportunities with patient capital</td>
+        </tr>
+    </tbody>
+</table>
